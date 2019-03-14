@@ -1,9 +1,9 @@
 # SoundsOfWarr is a collection of sounds for games
 These sounds have been made specifically with [NodeCore](https://gitlab.com/sztest/nodecore/tree/master) in mind. Each node will have a few specific sounds associated with it including:
- * Hitting the block (May seperate this out into pummeling, packing, and breaking where each is a step of force above the last)
- * The block Breaking
- * The block Landing
- * The block being walked on
+ * ~Hitting the block (May seperate this out into pummeling, packing, and breaking where each is a step of force above the last)~
+ * The block being placed (place)
+ * The block being broken (dug)
+ * The block being walked on (footstep)
  * Associated Ambient sound(s)
 
 ---
